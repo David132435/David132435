@@ -1,4 +1,17 @@
 ### Hi there 👋
+My name is David and I am gonna try to be uploading here all the things I work on so I can access it later if I need it :). Thats why there is a bit of everything in here. I dont know what else I should write in here since I am basically writing this just to see if my profile gets indexed by google since it was not getting indexed and I found that I have to add this README.
+
+- 🔭 I’m currently working on: some things
+- 🌱 I’m currently learning: a bit every day :)
+- 👯 I’m looking to collaborate on: Anything really that interests me
+- 🤔 I’m looking for help with: uhh idk
+- 💬 Ask me about: anything I guess
+- 📫 How to reach me: Hack me
+- 😄 Pronouns: ...
+- ⚡ Fun fact: Idk, I will add one some day
+
+
+
 
 <!--
 **David132435/David132435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
